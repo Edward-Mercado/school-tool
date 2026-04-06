@@ -1,6 +1,6 @@
 <template>
-    <div>
-        index
+    <div class="bg-linear-to-tr from-black to-indigo-950">
+
     </div>
 </template>
 

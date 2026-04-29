@@ -1,3 +1,5 @@
-export function oneGoddamnFunction() {
-    console.log("hello world")
+interface hi {
+    name: string
 }
+
+export **
